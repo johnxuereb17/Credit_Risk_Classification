@@ -9,4 +9,4 @@ Recall measures how many of the actual positive instances were correctly predict
 
 The stand-out results from this machine learning model were the balanced accuracy score of 0.944 and the weighted average for both precision and recall of 0.99. Due to our lack of knowledge and expertise in the loan lending business, we cannot say for certain whether or not this model will be useful for the bank/company in question. However, with an accuracy score of 0.944 and a weighted average for both precision and recall of 0.99, we think it is safe to say that this model is more than capable of making correct decisions in regards to assessing loan risk, and thus earns our recommendation. 
 
-Worked with Benjamin Moran, link to his GitHub: 
+Worked with Benjamin Moran, link to his GitHub: https://github.com/BenjaminMoran1/credit-list-classification
